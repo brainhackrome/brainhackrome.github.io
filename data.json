@@ -6,7 +6,7 @@
   "background_img": "../img/rome_1.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"",
+  "registration_link":"https://forms.gle/mavAGUbjpSkz4Edv6",
   "slack_link":"https://mattermost.brainhack.org/brainhack/channels/brainhack-rome",
   "project_submit_link":"https://github.com/brainhackrome/brainhackrome.github.io/issues/new?assignees=&labels=&projects=&template=project-submission-template.md&title=%5BProject%5D",
   "title_photo_link":"https://www.freepik.com/free-photo/view-tiber-river-center-rome-italy_29220510.htm#fromView=search&page=1&position=25&uuid=0c1c9e2a-96e2-48d0-a074-acf257e928c6",
