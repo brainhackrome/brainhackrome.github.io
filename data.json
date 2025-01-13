@@ -2,10 +2,10 @@
   "title": "Brainhack Rome 2025",
   "location": "Rome, Italy",
   "dates": "April 8-11, 2025",
-  "year": "2025",
+  "year": "2024",
   "background_img": "../img/rome_1.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
-  "global_brainhack_organizers": ["Cameron Craddock"],
+  "global_brainhack_organizers": ["the BHG2024 Team"],
   "registration_link":"https://forms.gle/mavAGUbjpSkz4Edv6",
   "slack_link":"https://mattermost.brainhack.org/brainhack/channels/brainhack-rome",
   "project_submit_link":"https://github.com/brainhackrome/brainhackrome.github.io/issues/new?assignees=&labels=&projects=&template=project-submission-template.md&title=%5BProject%5D",
@@ -26,7 +26,7 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"Breakfast and lunch will be provided. Free admission."},
+    "details": {"costs":"Free admission. Breakfast and lunch will be provided."},
     "schedule_background_img": "../img/rome_2.jpg",
     "schedule":  [
                     {"date": "Tuesday, April 8",
@@ -54,6 +54,6 @@
     "location_name": "Centro Ricerche Enrico Fermi",
     "location_url":"https://www.cref.it",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d95032.40526933361!2d12.4939!3d41.897961!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af0d8c59d5%3A0x8709d569a95afd29!2sEnrico%20Fermi%20Center%20for%20Study%20and%20Research!5e0!3m2!1sen!2sus!4v1736352396883!5m2!1sen!2sus",
-    "sponsors": [{"name": "", "url": "", "logo":""}],
+    "sponsors": [{"name": "Centro Ricerche Enrico Fermi", "url": "https://www.cref.it", "logo":"https://www.cref.it/wp-content/uploads/2023/11/logo-CREF.png"}],
     "organizers": ["Maria Guidi", "Alessandra Maiuro", "Matteo Mancini", "Marco Palombo"]
 }
