@@ -386,6 +386,17 @@ a:focus, a:hover {
   background-color: #3b2e26;
 }
 
+.bg-secondary {
+  color: #fff;
+  background-color: #e24401;
+}
+
 .text-primary {
     color: #3b2e26;
+}
+
+.speaker {
+  max-width:200px;
+  height:auto;
+  border-radius: 50%;
 }
