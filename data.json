@@ -60,7 +60,8 @@
                     {"date": "Friday, April 11",
                     "times": [{"time": "9:30PM", "event": "Meet-up"},
                               {"time": "9:45-10:30AM", "event": "Presentation wrap-up"},
-                              {"time": "10:30-11:30AM", "event": "Project Presentations"}]}
+                              {"time": "10:30-11:30AM", "event": "Project Presentations"},
+                              {"time": "11:30-12:00AM", "event": "Closing remarks"}]}
                             ],
     "location_logo": "",
     "location_name": "Centro Ricerche Enrico Fermi",
